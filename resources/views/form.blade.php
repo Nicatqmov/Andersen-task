@@ -10,8 +10,6 @@
 
 
 <div class="d-flex justify-content-center align-items-center min-vh-100 bg-light">
-
-  {{-- Success Alert --}}
   @if(session('success'))
     <div class="alert alert-success alert-dismissible fade show position-absolute top-0 start-50 translate-middle-x mt-3" role="alert" style="z-index: 9999; width: 26rem;">
       {{ session('success') }}
