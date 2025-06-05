@@ -77,10 +77,12 @@ After completing the base requirements, I implemented additional CRUD operations
    ```bash
    git clone https://github.com/yourusername/your-laravel-contact-app.git
 
-2. Run migrations:  
-   ```bash
-   php artisan migrate 'make sure you configure your database in .env file'
+2. configure your database in .env file
 
-2. Run the application:  
+3. Run migrations:
+   ```bash
+   php artisan migrate 
+
+4. Run the application:  
    ```bash
    php artisan serve
