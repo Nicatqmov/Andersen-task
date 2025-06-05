@@ -1,6 +1,6 @@
-# Laravel Contact Messages Application
+# Laravel V12 Messages Application
 
-This is a Laravel-based web application that I built as part of my Andersen task. The original task required creating a simple contact form to submit messages, but I extended it by adding full CRUD functionality so users can add, view, edit, and delete messages easily.
+This is a Laravel-based web application that I built as part of my Andersen task. The original task required creating contact form to submit messages, but I extended it by adding full CRUD functionality so users can add, view, edit, and delete messages easily.
 
 ---
 
@@ -65,7 +65,7 @@ After completing the base requirements, I implemented additional CRUD operations
 ![Edit Message](./docs/edit%20page.png)  
 *Editing an existing message with the form pre-filled.*
 
-### notification  
+### Notification  
 ![Edit Message](./docs/notifications.PNG)  
 *Show user real time notification after operations*
 
