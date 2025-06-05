@@ -50,19 +50,23 @@ This project addresses **[briefly describe the task/problem]** by providing **[s
 ## Screenshots
 
 ### Main Input Form  
-![Main Input Form](path_to_your_image_1.png)  
+![Main Input Form](./docs/edit%20page.png)  
 *Description: The form for entering Student ID and selecting destinations.*
 
 ### Validation Feedback  
-![Validation Feedback](path_to_your_image_2.png)  
+![Validation Feedback](./docs/form%20itself.png)  
 *Description: Error message if Student ID is invalid.*
 
 ### Submission Confirmation  
-![Submission Confirmation](path_to_your_image_3.png)  
+![Submission Confirmation](./docs/notifications.PNG)  
 *Description: Confirmation message after successful submission.*
 
 ### Final Result Display  
-![Final Result Display](path_to_your_image_4.png)  
+![Final Result Display](./docs/show%20list.png)  
+*Description: Shows the selected optimal destination after processing.*
+
+### Final Result Display  
+![Final Result Display](./docs/validation.PNG)  
 *Description: Shows the selected optimal destination after processing.*
 
 ---
@@ -71,4 +75,4 @@ This project addresses **[briefly describe the task/problem]** by providing **[s
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Nicatqmov/Andersen-task.git
