@@ -26,9 +26,9 @@ After completing the base requirements, I implemented additional CRUD operations
 
 - Full **CRUD (Create, Read, Update, Delete)** functionality for contact messages.  
 - **Server-side validation** for all inputs:  
-  - Name: required and must be a string  
+  - Name: required 
   - Email: required and must be a valid email address  
-  - Message: required and must be a string  
+  - Message: required and must be at least 10 character
 - Display all submitted messages on the same page with clear formatting.  
 - Edit feature that pre-fills the form with existing message data for easy updates.  
 - Delete feature to remove messages from the database instantly.  
